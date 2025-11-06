@@ -214,4 +214,3 @@ A **Programação Dinâmica** é uma das ferramentas mais importantes da Ciênci
 
 > A PD transforma problemas exponenciais em soluções polinomiais, sendo um dos pilares da otimização algorítmica e da eficiência computacional.
 
-```
